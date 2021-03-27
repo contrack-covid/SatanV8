@@ -40,9 +40,9 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:🌷♞  𝕤αт𝕒ⓝ  ☯🐺\n' 
-            + 'ORG: 🌷♞  𝕤αт𝕒ⓝ  ☯🐺;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=50373488366:+503 7348-8366\n' 
+            + 'FN: 𝐵𝑅𝑂𝑀𝑂 #ᵗᵃᵗᵃ\n' 
+            + 'ORG: 𝐵𝑅𝑂𝑀𝑂 #ᵗᵃᵗᵃ;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=642733336633:+64 27 333 36633\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -54,7 +54,7 @@ cr = '*ESTE BOT YA ESTÁ VERIFICADO*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["50373488366@s.whatsapp.net","50373488366@s.whatsapp.net"] 
+const ownerNumber = ["642733336633@s.whatsapp.net","642733336633@s.whatsapp.net"] 
 /************************************/
 
        
